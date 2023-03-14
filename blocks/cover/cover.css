@@ -1,0 +1,7 @@
+.cover {
+    background-image: url('./images/cover-trains.jpg');
+    width: 1184px;
+    height: 740px;
+    left: 48px;
+    margin: 92px auto;
+}
